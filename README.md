@@ -60,3 +60,7 @@ Project specification:
 
 Algorithms and Principles of Computer Science  
 Politecnico di Milano
+
+---
+
+## Grade ---> 30 cum Laude
